@@ -1,0 +1,16 @@
+{
+  "party": {
+    "host": "YOUR NAME",
+    "date": "SAT · 24 OCT",
+    "time": "8 PM ONWARDS",
+    "timeJoke": "pehle aa gaye toh bhi chalega",
+    "addressLine1": "YOUR BUILDING",
+    "addressLine2": "FLAT · TOWER",
+    "hostPhoto": "img/host_photo.png",
+    "music": "audio/song_cut.wav"
+  },
+  "guests": [
+    {"name": "YOU", "photo": ""},
+    {"name": "Rahul", "photo": "/absolute/path/to/rahul.jpg"}
+  ]
+}

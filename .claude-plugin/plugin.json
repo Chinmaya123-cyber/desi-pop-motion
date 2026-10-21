@@ -1,0 +1,10 @@
+{
+  "name": "desi-pop-motion",
+  "version": "1.0.0",
+  "description": "Make funky desi-pop maximalist motion-graphics videos (party invites, personalised guest invites, thank-you videos, event and festival reels) from a few photos and a song. Remotion + AI cartoon characters via the Atlabs MCP.",
+  "author": {"name": "Chinmaya", "url": "https://github.com/Chinmaya123-cyber"},
+  "homepage": "https://github.com/Chinmaya123-cyber/desi-pop-motion",
+  "repository": "https://github.com/Chinmaya123-cyber/desi-pop-motion",
+  "license": "MIT",
+  "keywords": ["video", "motion-graphics", "remotion", "invite", "birthday", "instagram", "reels", "atlabs", "desi", "bollywood"]
+}

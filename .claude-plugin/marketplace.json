@@ -1,0 +1,14 @@
+{
+  "name": "desi-pop-motion",
+  "owner": {"name": "Chinmaya", "url": "https://github.com/Chinmaya123-cyber"},
+  "metadata": {"description": "Desi-pop motion-graphics video skill for Claude", "version": "1.0.0"},
+  "plugins": [
+    {
+      "name": "desi-pop-motion",
+      "source": "./",
+      "description": "Funky desi-pop collage motion videos (invites, thank-yous, event reels) with AI cartoon characters via the Atlabs MCP.",
+      "version": "1.0.0",
+      "category": "creative"
+    }
+  ]
+}
